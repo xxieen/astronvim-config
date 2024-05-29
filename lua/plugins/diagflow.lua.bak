@@ -1,0 +1,17 @@
+return {
+  "dgagn/diagflow.nvim",
+  event = "LspAttach",
+  opts = {
+    toggle_event = { "InsertEnter" },
+    show_borders = true,
+    -- show_sign = true,
+    border_chars = {
+      top_left = "╭",
+      top_right = "╮",
+      bottom_left = "╰",
+      bottom_right = "╯",
+      horizontal = "─",
+      vertical = "│",
+    },
+  },
+}
