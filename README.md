@@ -1,6 +1,6 @@
 # AstroNvim Configuration
 
-My config for astronvim[https://astronvim.com/]
+My config for [astronvim](https://astronvim.com/)
 
 **NOTE:** This is for AstroNvim v4+
 
@@ -15,12 +15,10 @@ mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
-**Hello**
-
 #### Clone the repository
 
 ```shell
-git clone https://github.com/xxieen/astronvim-config ~/.config/nvim
+git clone https://github.com/xxieen/astronvim-config.git ~/.config/nvim
 ```
 
 #### Start Neovim
