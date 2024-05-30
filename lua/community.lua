@@ -77,8 +77,7 @@ return {
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.colorscheme.cyberdream-nvim" },
-  { import = "astrocommunity.colorscheme.fluoromachine-nvim" },
-
+  -- { import = "astrocommunity.colorscheme.fluoromachine-nvim" },
   { import = "astrocommunity.colorscheme.everforest" },
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
