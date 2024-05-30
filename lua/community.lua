@@ -6,6 +6,9 @@
 return {
   "AstroNvim/astrocommunity",
 
+  --debugging
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
+
   -- workflow
   -- { import = "astrocommunity.workflow.hardtime-nvim" },
 
@@ -18,6 +21,7 @@ return {
 
   -- color
   -- { import = "astrocommunity.color.nvim-highlight-colors" },
+  -- { import = "astrocommunity.color.transparent-nvim" },
 
   -- file-explorer
   { import = "astrocommunity.file-explorer.oil-nvim" },
